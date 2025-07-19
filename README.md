@@ -32,6 +32,8 @@ SmartSDLC/
 ├── .env
 ├── requirements.txt
 
+Video Link: https://drive.google.com/file/d/1k40WbZwhboFfG-SvS8bSgcwufc6JwJgy/view?usp=sharing
+
 
 🚀 How to Run
 Create virtual environment
